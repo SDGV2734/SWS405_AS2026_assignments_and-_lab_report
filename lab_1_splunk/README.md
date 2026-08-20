@@ -1,5 +1,6 @@
-
-![College of Science and Technology Logo.jpeg](Untitled/College_of_Science_and_Technology_Logo.jpeg)
+<p align="center">
+  <img src="Untitled/College_of_Science_and_Technology_Logo.jpeg" alt="College of Science and Technology Logo" width="220">
+</p>
 
 $$
 \huge \begin{array}{c} \mathbf{\textsf{Royal University of Bhutan,}} \\ \mathbf{\textsf{College of Science and Technology}} \end{array}
