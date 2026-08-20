@@ -79,10 +79,6 @@ Therefore, the analysis of such attack should include investigations of encrypte
 
 **Platform:** TryHackMe
 
-**Access method:** ______________________________
-
-*(Write either AttackBox or OpenVPN depending on what you used.)*
-
 **Lab 1 Splunk Instance:**
 
 `https://LAB_WEB_URL.p.thmlabs.com`
